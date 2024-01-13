@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Email",
+    "fa_icon": "fa-regular fa-envelope",
+    "url": "mailto:tomislav.mavrovic@gmail.com"
+  },
+  {
+    "title": "Whatsapp",
+    "fa_icon": "fa-brands fa-whatsapp",
+    "url": "https://wa.me/qr/DCFIKLYTI5NQI1"
+  },
+  {
+    "title": "Telegram",
+    "fa_icon": "fa-regular fa-paper-plane",
+    "url": "https://t.me/tommei"
+  }
+]
