@@ -6,7 +6,7 @@ description: ""
 image: ""
 ---
 
-> I help startups and businesses to eliminate user retention issues and improve the user experience of their products. 
+> I help startups and businesses in resolving user retention issues and improving the user experience of their digital products.
 
 The core focus of my work is to **craft frictionless, intuitive and accessible experiences**. The concept itself is not complicated, but achieving it necessitates structured approach and proper planning.
 
