@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "👋 I'm Tom, <strong>UX/UI & digital designer</strong> from Croatia." 
-description: "Over the course of my career, I've provided my design services to a variety of businesses and startups across various fields, such as digital health, web3, telematics, data, IoT, digital marketing etc. From the initial sketch to the final result, I strive to deliver the highest quality standard of work that aligns with every business objective. I specialize in UX/UI, brand design and strategy, general digital design and concept development for any digital platform and media. Clear and succinct in communication, pragmatic and resourceful in problem solving; if I can't figure it out - I figure it out."
-meta_description: "Tom Mavic - digital health product designer"
-meta_title: Tom Mavic - digital health product designer
+description: "I help startups and businesses in resolving user retention issues and improving the user experience of their digital products. Over the course of my career, I've provided my design services across various fields, such as digital health, web3, telematics, data, IoT, digital marketing etc. I specialize in UX/UI, branding, general digital design and concept development for any digital platform and media. Clear and succinct in communication, pragmatic and resourceful in problem solving; if I can't figure it out - I figure it out."
+meta_description: "Tomislav Mavrovic - digital designer"
+meta_title: Tomislav Mavrovic - digital designer
 subscribe: false
 
 projects:
