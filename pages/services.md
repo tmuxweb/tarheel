@@ -8,7 +8,7 @@ image: ""
 
 > I help startups and businesses resolve user retention issues and improve the user experience of their digital products.
 
-The core focus of my work is to **craft frictionless, intuitive and accessible experiences**. The concept itself is not complicated, but achieving it necessitates structured approach and proper planning.
+The core focus of my work is to **craft frictionless, intuitive and accessible experiences** through visual design. The concept itself is not complicated on the face of it, but achieving it necessitates structured and proper planning.
 
 I approach each project objectively and without bias, from an impartial and neutral perspective, allowing for a prompt and clear understanding of its friction points, as well as the tacit and latent user needs related to it. 
 
