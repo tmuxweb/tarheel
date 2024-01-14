@@ -6,7 +6,7 @@ description: "government-certified EHR / telemedicine environment for caregivers
 weight: 1
 permalink: /projects/project-1
 thumbnail: "https://cdn.jsdelivr.net/gh/tmuxweb/tarheel/assets/images/gen/projects/project-1-1-thumbnail.jpg"
-image: "/assets/images/gen/projects/project-1-2.webp"
+image: ""
 deight: "Jan 2020 - Feb 2023"
 client: "Medvision360 BV"
 role: "Product Designer"
