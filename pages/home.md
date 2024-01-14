@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "👋 I'm Tom, <strong>UX/UI & digital designer</strong> from Croatia." 
-description: "I help startups and businesses resolve user retention issues and improve the user experience of their digital products. Over the course of my career, I've provided my services across various fields; digital health, web3, telematics, IoT, digital marketing etc. My areas of expertise include UX/UI, branding, general digital design and concept development for any digital platform and media."
+description: "I help startups and businesses improve the user experience and resolve user retention issues of their digital products. Over the course of my career, I've provided my services across various fields; digital health, web3, telematics, IoT, digital marketing etc. My areas of expertise include UX/UI, branding, general digital design and concept development for any digital platform and media."
 meta_description: "Tomislav Mavrovic - digital designer"
 meta_title: Tomislav Mavrovic - digital designer
 subscribe: false
